@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class PointsX : MonoBehaviour
 {
@@ -10,7 +11,23 @@ public class PointsX : MonoBehaviour
     public GameObject door; 
 
     private bool sumaArea = false;
-    
+
+    public TextMeshProUGUI pointText;
+
+
+    void Start()
+    {
+        ActualizarPoints();
+    }
+
+    void ActualizarPoints()
+    {
+        if (pointText != null)
+        {
+            pointText.text = points + "/" + pointsToCheck;
+        }
+    }
+
     void Update()
     {
         
@@ -41,7 +58,7 @@ public class PointsX : MonoBehaviour
     {
         points++;
         Debug.Log("Puntos: " + points);
-
+        ActualizarPoints();
         
         if (points >= pointsToCheck)
         {
