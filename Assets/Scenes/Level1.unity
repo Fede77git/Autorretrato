@@ -186,6 +186,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: bd5082c0615524b4fac183d53d9768f7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bd2d742ee2ce7a740ae0cf992a38be74, type: 2}
     - target: {fileID: 919132149155446097, guid: bd5082c0615524b4fac183d53d9768f7, type: 3}
       propertyPath: m_Name
       value: drink_002
@@ -299,7 +303,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: a68228c24abfa2f4b8954d7b0148f799, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -392,6 +396,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -15.4
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 724d1b533860f6b40869157a6b678ef3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5aaee4111611af43b5abbff184fe5fa, type: 2}
     - target: {fileID: 919132149155446097, guid: 724d1b533860f6b40869157a6b678ef3, type: 3}
       propertyPath: m_Name
       value: dumbbell_001 (2)
@@ -461,6 +469,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -15.4
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 724d1b533860f6b40869157a6b678ef3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5aaee4111611af43b5abbff184fe5fa, type: 2}
     - target: {fileID: 919132149155446097, guid: 724d1b533860f6b40869157a6b678ef3, type: 3}
       propertyPath: m_Name
       value: dumbbell_001 (1)
@@ -613,6 +625,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ced7d5d843f03774e8c82dc8a229be4c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 801db2d997a562b4ea333aa4593ce0f0, type: 2}
     - target: {fileID: 919132149155446097, guid: ced7d5d843f03774e8c82dc8a229be4c, type: 3}
       propertyPath: m_Name
       value: kitchen_chair_001 (2)
@@ -779,6 +795,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -15.4
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 724d1b533860f6b40869157a6b678ef3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5aaee4111611af43b5abbff184fe5fa, type: 2}
     - target: {fileID: 919132149155446097, guid: 724d1b533860f6b40869157a6b678ef3, type: 3}
       propertyPath: m_Name
       value: dumbbell_001 (3)
@@ -852,7 +872,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: a68228c24abfa2f4b8954d7b0148f799, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1054,6 +1074,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -15.4
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cd560a8cb8bd1ec4fb3267ac9441df28, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5aaee4111611af43b5abbff184fe5fa, type: 2}
     - target: {fileID: 919132149155446097, guid: cd560a8cb8bd1ec4fb3267ac9441df28, type: 3}
       propertyPath: m_Name
       value: dumbbell_002 (1)
@@ -1127,7 +1151,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: a68228c24abfa2f4b8954d7b0148f799, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1220,6 +1244,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -15.4
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 724d1b533860f6b40869157a6b678ef3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5aaee4111611af43b5abbff184fe5fa, type: 2}
     - target: {fileID: 919132149155446097, guid: 724d1b533860f6b40869157a6b678ef3, type: 3}
       propertyPath: m_Name
       value: dumbbell_001
@@ -1289,6 +1317,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ced7d5d843f03774e8c82dc8a229be4c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 801db2d997a562b4ea333aa4593ce0f0, type: 2}
     - target: {fileID: 919132149155446097, guid: ced7d5d843f03774e8c82dc8a229be4c, type: 3}
       propertyPath: m_Name
       value: kitchen_chair_001 (1)
@@ -1473,6 +1505,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: bd5082c0615524b4fac183d53d9768f7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cd71291c91c8cce499cb663b5db9970e, type: 2}
     - target: {fileID: 919132149155446097, guid: bd5082c0615524b4fac183d53d9768f7, type: 3}
       propertyPath: m_Name
       value: drink_002 (2)
@@ -1542,6 +1578,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 229c147ca36ed9747a2bdb66dfe23a78, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5aaee4111611af43b5abbff184fe5fa, type: 2}
     - target: {fileID: 919132149155446097, guid: 229c147ca36ed9747a2bdb66dfe23a78, type: 3}
       propertyPath: m_Name
       value: training_item_001
@@ -1733,7 +1773,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: a68228c24abfa2f4b8954d7b0148f799, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1830,7 +1870,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: a68228c24abfa2f4b8954d7b0148f799, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2020,6 +2060,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -15.4
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cd560a8cb8bd1ec4fb3267ac9441df28, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5aaee4111611af43b5abbff184fe5fa, type: 2}
     - target: {fileID: 919132149155446097, guid: cd560a8cb8bd1ec4fb3267ac9441df28, type: 3}
       propertyPath: m_Name
       value: dumbbell_002 (2)
@@ -2089,6 +2133,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e8bcc2af6da4ffa4ba221825387cee57, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3da4aad06945bbf4baf801c2aacbc01e, type: 2}
     - target: {fileID: 919132149155446097, guid: e8bcc2af6da4ffa4ba221825387cee57, type: 3}
       propertyPath: m_Name
       value: office_table_001
@@ -2279,7 +2327,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2372,6 +2420,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -15.4
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cd560a8cb8bd1ec4fb3267ac9441df28, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5aaee4111611af43b5abbff184fe5fa, type: 2}
     - target: {fileID: 919132149155446097, guid: cd560a8cb8bd1ec4fb3267ac9441df28, type: 3}
       propertyPath: m_Name
       value: dumbbell_002
@@ -2709,6 +2761,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: bd5082c0615524b4fac183d53d9768f7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5aaee4111611af43b5abbff184fe5fa, type: 2}
     - target: {fileID: 919132149155446097, guid: bd5082c0615524b4fac183d53d9768f7, type: 3}
       propertyPath: m_Name
       value: drink_002 (1)
@@ -3135,7 +3191,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a0427cf339e5891468d5f2b433b2d44a, type: 2}
+  - {fileID: 2100000, guid: a68228c24abfa2f4b8954d7b0148f799, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3353,6 +3409,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4f99996cfa872bf42a2af32a1d158fd7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5aaee4111611af43b5abbff184fe5fa, type: 2}
     - target: {fileID: 919132149155446097, guid: 4f99996cfa872bf42a2af32a1d158fd7, type: 3}
       propertyPath: m_Name
       value: training_item_002
@@ -3422,6 +3482,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ced7d5d843f03774e8c82dc8a229be4c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 801db2d997a562b4ea333aa4593ce0f0, type: 2}
     - target: {fileID: 919132149155446097, guid: ced7d5d843f03774e8c82dc8a229be4c, type: 3}
       propertyPath: m_Name
       value: kitchen_chair_001
@@ -3965,6 +4029,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -15.4
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cd560a8cb8bd1ec4fb3267ac9441df28, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5aaee4111611af43b5abbff184fe5fa, type: 2}
     - target: {fileID: 919132149155446097, guid: cd560a8cb8bd1ec4fb3267ac9441df28, type: 3}
       propertyPath: m_Name
       value: dumbbell_002 (3)
